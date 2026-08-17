@@ -15,7 +15,7 @@
 
 ### 🚀 Featured Research
 **[BeliefTrace](https://github.com/AetherMarina/belief-trace)**  
-An experimental LLM fine-tuning project for extracting structured CBT-style core-belief labels from narrative text. BeliefTrace explores QLoRA fine-tuning, synthetic data augmentation, multi-label evaluation, hallucination tracking, confusion matrix analysis, and paired bootstrap significance testing for human-centered qualitative AI tasks.
+An experimental cognitive AI research project for extracting structured core-belief representations from narrative text and tracing how they evolve over time. BeliefTrace combines a QLoRA/PEFT-based Belief Model for multi-label core-belief extraction with a Longitudinal Belief Graph for modeling belief relationships, transitions, and evolution across narratives. The project explores synthetic data augmentation, ablation studies, multi-label evaluation, hallucination tracking, confusion matrix analysis, and paired bootstrap significance testing.
 
 **[Affective-Bridge](https://github.com/AetherMarina/affective-bridge)**  
 A middleware system for behavioral signal interpretation and affect-aware AI interaction, with a focus on privacy and explainability.
