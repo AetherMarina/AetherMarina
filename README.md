@@ -15,7 +15,11 @@
 
 ### 🚀 Featured Research
 **[BeliefTrace](https://github.com/AetherMarina/belief-trace)**  
-An experimental cognitive AI research project for extracting structured core-belief representations from narrative text and tracing how they evolve over time. BeliefTrace combines a QLoRA/PEFT-based Belief Model for multi-label core-belief extraction with a Longitudinal Belief Graph for modeling belief relationships, transitions, and evolution across narratives. The project explores synthetic data augmentation, ablation studies, multi-label evaluation, hallucination tracking, confusion matrix analysis, and paired bootstrap significance testing.
+An experimental cognitive AI research project for extracting structured belief representations from narrative text and tracing their temporal evolution. The framework consists of two core modules:
+* **Belief Model**: A QLoRA/PEFT-based model for multi-label core-belief extraction.
+* **Longitudinal Belief Graph**: A temporal state machine for modeling how inferred beliefs persist, conflict with new evidence, and change state across sequential narratives.
+
+**Research Focus**: Synthetic data augmentation, ablation studies, multi-label evaluation, hallucination tracking, confusion matrix analysis, and paired bootstrap significance testing.
 
 **[Affective-Bridge](https://github.com/AetherMarina/affective-bridge)**  
 A middleware system for behavioral signal interpretation and affect-aware AI interaction, with a focus on privacy and explainability.
