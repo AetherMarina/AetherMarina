@@ -7,9 +7,9 @@
 
 ### 🛠️ Technical Focus
 * **AI Systems:** LLM applications, RAG pipelines, structured extraction, agentic workflows
-* **Human-Centered AI:** Behavior-aware systems, explainability, decision support, cognitive pattern modeling
+* **Human-Centered & Cognitive AI:** Behavior-aware systems, cognitive state modeling, temporal reasoning, explainability
 * **Affective Computing:** Emotional signal modeling, behavioral analysis, human–AI interaction
-* **Infrastructure:** Python, FastAPI, Apache Spark, Ollama, AWS
+* **Engineering & Infrastructure:** Python, PyTorch, Hugging Face, Pydantic, FastAPI, Docker, Apache Spark, Ollama, AWS
 
 ---
 
@@ -32,7 +32,7 @@ I am currently exploring **cognitive AI**, **affective computing**, **human-cent
 
 My broader research direction focuses on AI systems that can interpret not only what people say, but also the behavioral, emotional, and cognitive patterns underneath.
 
-Following developments in human-centered AI, behavioral systems, Affective Computing hubs in Southern Europe (*Malaga/Mallorca/Barcelona/Valencia*).
+I am also following emerging research and industry work in human-centered AI, behavioral systems, and affective computing across Southern Europe, particularly in *Malaga, Mallorca, Barcelona and Valencia*.
 
 ---
 
