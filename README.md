@@ -5,9 +5,9 @@
 
 ---
 
-### 🛠️ Technical Focus
+### 🧩 Technical Focus
 * **AI Systems:** LLM applications, RAG pipelines, structured extraction, agentic workflows
-* **Human-Centered & Cognitive AI:** Behavior-aware systems, cognitive state modeling, temporal reasoning, explainability
+* **Human-Centered & Cognitive AI:** Behavior-aware systems, cognitive state modeling, temporal and graph-based reasoning, explainability
 * **Affective Computing:** Emotional signal modeling, behavioral analysis, human–AI interaction
 * **Engineering & Infrastructure:** Python, PyTorch, Hugging Face, Pydantic, FastAPI, Docker, Apache Spark, Ollama, AWS
 
@@ -28,11 +28,11 @@ A middleware system for behavioral signal interpretation and affect-aware AI int
 
 ### 🧭 Current Explorations
 
-I am currently exploring **cognitive AI**, **affective computing**, **human-centered evaluation**, and **belief-aware systems** that connect narrative understanding with structured machine reasoning.
+My active research connects narrative understanding with structured machine reasoning, with a focus on **cognitive AI**, **affective computing**, and **belief-aware systems**. I explore architectures that interpret not only what people say, but also the behavioral, emotional, and cognitive patterns that emerge across time and context.
 
-My broader research direction focuses on AI systems that can interpret not only what people say, but also the behavioral, emotional, and cognitive patterns underneath.
+I am currently extending this work into computational cultural heritage, exploring how temporal graphs and AI can help trace, connect, and interpret symbolic meaning across historical and visual sources.
 
-I am also following emerging research and industry work in human-centered AI, behavioral systems, and affective computing across Southern Europe, particularly in *Malaga, Mallorca, Barcelona and Valencia*.
+I am also following emerging work in human-centered AI, behavioral systems, and affective computing across Southern Europe, particularly in *Malaga, Mallorca, Barcelona and Valencia*.
 
 ---
 
