@@ -1,7 +1,7 @@
 # Marina | Independent Researcher & AI/ML Engineer
 
-🌌 **Independent Researcher** | AI systems at the intersection of behavior, cognition, and affective computing in human–AI interaction  
-🏢 **AI/ML Engineer at Nutanix** | 15+ years in software engineering, building AI systems for developer productivity and system intelligence 
+<img src="github-avatar.png" width="18" height="18" style="border-radius: 50%; vertical-align: middle;" alt="Icon" /> **Independent Researcher** | AI systems at the intersection of behavior, cognition, and affective computing in human–AI interaction  
+🏢 **AI/ML Engineer at Nutanix** | 15+ years in software engineering, building AI systems for developer productivity and system intelligence
 
 ---
 
